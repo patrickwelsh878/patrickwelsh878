@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me
-- 😄 He/Him
+- 😄 They/Them
 - 🖥️ Associate Software Developer at N-able
 - 🖥️ BSc (Hons) Computing at Abertay University
 - 🌱 I am currently learning about the application of Python in computational astrophysics, as well as upskilling my knowledge in Java
