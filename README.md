@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 
 <!-- Socials -->
 <div id = "badges" align = "center">
-  <a href = "https://www.linkedin.com/in/aeternax1/">
+  <a href = "https://www.linkedin.com/in/patrickwelsh1302/">
     <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn Badge" width = "100px" height = "25px"/>
-  </a>
-  
-  <a href = "https://twitter.com/AeternaX1" align = "center">
-    <img src = "https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt = "Twitter Badge" width = "100px" height = "25px"/>
   </a>
 </div>
 
