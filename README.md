@@ -3,7 +3,7 @@
 </div>
 
 <!--
-**AeternaX1/AeternaX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**patrickwelsh878/patrickwelsh878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me
-- 🖥️ Associate Software Engineer at N-able
-- 🖥️ BSc (Hons) Computing at Abertay University
-- 🌱 I am currently learning about the application of Python in computational astrophysics, as well as upskilling my knowledge in Java
+- 🖥️ Intermediate Software Engineer at N-able
+- 🖥️ BSc (Hons) Computing graduate from Abertay University
+- 🌱 I am currently learning about the application of Python in computational astrophysics.
 
 ---
 
